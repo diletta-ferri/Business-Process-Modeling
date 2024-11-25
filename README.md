@@ -1,6 +1,7 @@
 # Business Process Modeling - Exam Project
 
-This repository contains the materials and files related to the **Business Process Modeling** exam project @UniPi in the a.y. 2023/24
+This repository contains the materials and files related to the **Business Process Modeling** exam project @UniPi in the a.y. 2023/24 
+
 The project involves analyzing and modeling business processes using BPMN diagrams and Petri nets.
 
 ## Repository Contents
